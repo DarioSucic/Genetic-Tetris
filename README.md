@@ -16,7 +16,7 @@ Three different agents are implemented:
 [![Youtube Video](https://img.youtube.com/vi/iQggYrU_yrk/0.jpg)](https://www.youtube.com/watch?v=iQggYrU_yrk)
 
 ### Learning implementation
-TL;DR The Genetic Agent learns an appropriate weighting of a set of heurisic functions on the Tetris state map.
+TL;DR The Genetic Agent learns an appropriate weighting of a set of heuristic functions on the Tetris state map.
 
 ##### [Heuristic Functions](https://github.com/DarioSucic/Genetic-Tetris/blob/master/src/misc/heuristics.rs)
 The algorithm makes use of the following 4 heuristics:
